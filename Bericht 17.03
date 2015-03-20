@@ -1,0 +1,38 @@
+- nodejs javascript auf server 
+- effekte abstellen
+- gnome(compiz) -> gute linux "oberfläche"
+
+-WICHTIGES FÜR DAS SPIEL:
+	1. Stufe: Name des Spiels
+		Inhalt: -README.md
+			-package.json
+			-src Ordner
+			-später node_modules(zum testen im browser)
+	2. Stufe: src
+		Inhalt: -index.html
+			-index.css
+			-js Ordner
+			-data Ordner
+	3.1 Stufe: js
+		Inhalt: -resources.js
+			-game.js
+			-screens Ordner
+			-entities Ordner
+			-lib Ordner
+	3.2 Stufe: data
+		Inhalt: -img Ordner
+			-map Ordner
+	4.1.1 Stufe: screens
+		Inhalt: -plays.js
+	4.1.2 Stufe: entities
+		Inhalt: -entities.js
+			-HUD.js
+	4.1.3 Stufe: lib
+		Inhalt: -debugPanel.js
+			-melonJS-2.0.2.js
+	4.2.1 Stufe: img
+		Inhalt: -Bilder (gegebenfalls mit Unterordner)
+	4.2.2 Stufe: map
+		Inhalt: -Leveldateien (.tmx)
+
+			
