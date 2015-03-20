@@ -1,0 +1,3 @@
+- github.com			#Daten sichern und übertragen per 					#server
+- http://melonjs.github.io/docs/ #befehle für die engine
+- https://scotch.io/bar-talk/git-cheat-sheet #git befehle
